@@ -9,5 +9,5 @@ export default () => (
         Stay organized and never miss an important update at DCRUST.
       </p>
     </div>
-  </section> 
+  </section>
 );
