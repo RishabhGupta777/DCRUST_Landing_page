@@ -1,6 +1,8 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
   ]
-}</content>
-<parameter name="filePath">e:\DCRSUT_Landing_page\vercel.json
+}
