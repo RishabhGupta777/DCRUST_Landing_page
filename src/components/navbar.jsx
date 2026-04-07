@@ -5,7 +5,7 @@ export default () => (
       <a href="#features" className="hover:text-purple-600 transition">Features</a>
       <a href="/contact" className="hover:text-purple-600 transition">Contact Us</a>
     </div>
-    <a href="https://github.com/RishabhGupta100/DCRSUT/releases/download/v1.0.4/DCRUST.apk" className="bg-purple-600 text-white px-6 py-2 rounded-full font-semibold hover:bg-purple-700 transition shadow-md hover:shadow-lg">
+    <a href="https://github.com/RishabhGupta100/DCRSUT/releases/download/v1.0.5/DCRUST.apk" className="bg-purple-600 text-white px-6 py-2 rounded-full font-semibold hover:bg-purple-700 transition shadow-md hover:shadow-lg">
       Download the App
     </a>
   </nav>
