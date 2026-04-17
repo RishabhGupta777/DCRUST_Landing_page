@@ -16,7 +16,7 @@ export default () => (
       Stay connected with DCRUST effortlessly and never miss an important update.
     </p>
     <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
-      <a href="https://github.com/RishabhGupta100/DCRSUT/releases/download/v1.0.5/DCRUST.apk" className="bg-purple-600 text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-purple-700 shadow-lg transition transform hover:-translate-y-1">
+      <a href="https://github.com/RishabhGupta100/DCRSUT/releases/download/v1.0.6/DCRUST.apk" className="bg-purple-600 text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-purple-700 shadow-lg transition transform hover:-translate-y-1">
         Download the App
       </a>
       <a href="#features" className="bg-white text-gray-800 px-8 py-4 rounded-full font-bold text-lg border border-gray-200 hover:bg-gray-50 shadow-sm transition">
